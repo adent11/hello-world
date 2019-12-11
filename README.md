@@ -23,8 +23,8 @@ The goal of the PID box project is to control the speed of a motor using a photi
 </p>
 </details>
   
-## Week 1
-<details><summary><b>Click to expand</b></summary>
+## Weekly Overview
+<details><summary><b>Week 1</b></summary>
 <p>
   
 * Designed mount for motor
@@ -36,8 +36,8 @@ On schedule
 </p>
 </details>
   
-## Week 2
-<details><summary><b>Click to expand</b></summary>
+
+<details><summary><b>Week 2</b></summary>
 <p>
   
 * Made sub-assembly of the motor, wheel, and photointerrupter
@@ -52,8 +52,8 @@ On schedule
 </p>
 </details>
   
-## Week 3
-<details><summary><b>Click to expand</b></summary>
+
+<details><summary><b>Week 3</b></summary>
 <p>
   
 * Added in the rest of the components
@@ -64,8 +64,7 @@ On schedule
 </p>
 </details>
   
-## Week 4
-<details><summary><b>Click to expand</b></summary>
+<details><summary><b>Week 4</b></summary>
 <p>
   
 * Laser cut all walls
@@ -76,8 +75,8 @@ On Schedule
 </p>
 </details>
   
-## Week 5
-<details><summary><b>Click to expand</b></summary>
+
+<details><summary><b>Week 5</b></summary>
 <p>
   
 * Got potentiometer and motor control working with test code
