@@ -87,7 +87,26 @@ On Schedule
 </p>
 </details>
   
-## Week 6
-## Week 7
-## Week 8
-## Week 9
+<details><summary><b>Week 6</b></summary>
+<p>
+
+</p>
+</details>
+
+<details><summary><b>Week 7</b></summary>
+<p>
+
+</p>
+</details>
+
+<details><summary><b>Week 8</b></summary>
+<p>
+
+</p>
+</details>
+
+<details><summary><b>Week 9</b></summary>
+<p>
+
+</p>
+</details>
